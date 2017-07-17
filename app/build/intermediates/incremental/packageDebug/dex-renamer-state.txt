@@ -1,0 +1,7 @@
+#Mon Jul 17 14:57:44 CEST 2017
+base.0=D\:\\android\\androidjson-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e782ddf9a3c6597fc53052cd57226c1b094536a5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\android\\androidjson-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_99c21dc99d052b77fd318052cc3d8a68d2f6d676\\classes.dex
+base.1=D\:\\android\\androidjson-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_99c21dc99d052b77fd318052cc3d8a68d2f6d676
+file.0=D\:\\android\\androidjson-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e782ddf9a3c6597fc53052cd57226c1b094536a5\\classes.dex

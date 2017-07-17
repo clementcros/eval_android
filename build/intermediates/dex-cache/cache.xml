@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android\androidjson-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\android\androidjson-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e782ddf9a3c6597fc53052cd57226c1b094536a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\androidjson-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f238360732283ea11c5594079f7bc34568f360dd">
+        <dex dex="D:\android\androidjson-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_99c21dc99d052b77fd318052cc3d8a68d2f6d676\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\clement\.gradle\caches\modules-2\files-2.1\com.googlecode.json-simple\json-simple\1.1\5e303a03d04e6788dddfa3655272580ae0fc13bb\json-simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\android\androidjson-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\json-simple-1.1_abff56078b16ee76f522fe21ff178e8a1cc6570a\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ApprenantsTest</string>
+    <string name="promo">Promo</string>
+    <string name="session">Session</string>
+    <string name="skills">Skills</string>
+
+    <string-array name="identity">
+        <item>
+            <nom>Lars1</nom>
+            <prenom>Test1</prenom>
+            <skill>1</skill>
+            <ville>Trifouillis les oies</ville>
+            <description>Super Lars 1 of the world</description>
+        </item>
+        <item>
+            <nom>Lars2</nom>
+            <prenom>Test2</prenom>
+            <skill>3</skill>
+            <ville>Trifouillis les oies</ville>
+            <description>Super Lars 2 of the world</description>
+        </item>
+        <item>
+            <nom>Lars3</nom>
+            <prenom>Test3</prenom>
+            <skill>4</skill>
+            <ville>Trifouillis les oies</ville>
+            <description>Super Lars 3 of the world</description>
+        </item>
+        <item>
+            <nom>Lars4</nom>
+            <prenom>Test4 </prenom>
+            <skill>5</skill>
+            <ville>Trifouillis les oies</ville>
+            <description>Super Lars 4 of the world</description>
+        </item>
+    </string-array>
+    <string-array name="La_spinner_promo_array">
+        <item>2017</item>
+        <item>2016</item>
+        <item>1993</item>
+        <item>0000</item>
+    </string-array>
+    <string-array name="La_spinner_session_array">
+        <item>Dev</item>
+        <item>Equitation</item>
+        <item>ADC</item>
+        <item>JNG</item>
+    </string-array>
+    <string-array name="La_spinner_skills_array">
+        <item>*****</item>
+        <item>****</item>
+        <item>***</item>
+        <item>**</item>
+        <item>*</item>
+    </string-array>
+</resources>
